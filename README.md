@@ -105,10 +105,6 @@ Participants are encouraged to customize the user interface and incorporate addi
   4. Install Tailwind CSS for styling.
     - **Reading:** [Tailwind CSS Docs](https://tailwindcss.com/docs/installation)
      - **Video** [Tailwind CSS lecture](https://www.youtube.com/watch?v=UBOj6rqRUME)
-   5. Typescript tutorial.
-   - **Reading:** [Tailwind CSS Docs](https://tailwindcss.com/docs/installation)
-   - **Video** [Tailwind CSS lecture](https://www.youtube.com/watch?v=UBOj6rqRUME)
-
 - **Deliverables:**
   - Basic project setup with backend and frontend initialized.
 
