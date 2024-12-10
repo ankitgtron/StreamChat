@@ -98,12 +98,16 @@ Participants are encouraged to customize the user interface and incorporate addi
        - **Video:** [MERN Stack Crash Course](https://www.youtube.com/watch?v=fnpmR6Q5lEc)
   2. Create the project directory structure.
      - **Reading:** [React App Structure](https://reactjs.org/docs/getting-started.html)
+     - **Video:**[React tutorial](https://www.youtube.com/watch?v=RGKi6LSPDLU&t=4589s)
   3. Build a basic Express server and connect it to MongoDB.
      - **Reading:** [Express.js Basics](https://expressjs.com/)
      - **Video:** [Express Server Setup](https://www.youtube.com/watch?v=L72fhGm1tfE)
   4. Install Tailwind CSS for styling.
     - **Reading:** [Tailwind CSS Docs](https://tailwindcss.com/docs/installation)
      - **Video** [Tailwind CSS lecture](https://www.youtube.com/watch?v=UBOj6rqRUME)
+   5. Typescript tutorial.
+   - **Reading:** [Tailwind CSS Docs](https://tailwindcss.com/docs/installation)
+   - **Video** [Tailwind CSS lecture](https://www.youtube.com/watch?v=UBOj6rqRUME)
 
 - **Deliverables:**
   - Basic project setup with backend and frontend initialized.
