@@ -90,7 +90,7 @@ Participants are encouraged to customize the user interface and incorporate addi
 ---
 
 #### **Week 1: Project Setup**
-- **Goal:** Set up the foundational structure for ChatVerse.
+- **Goal:** Set up the foundational structure for StreamChat.
 
 - **Tasks:**
   1. Install and configure Node.js, MongoDB, and React.
@@ -189,7 +189,7 @@ Participants are encouraged to customize the user interface and incorporate addi
   2. Test all features and finalize the project.
 
 - **Deliverables:**
-  - Live ChatVerse app accessible online.
+  - Live StreamChat app accessible online.
 
 ---
 
