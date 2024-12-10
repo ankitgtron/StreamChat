@@ -1,9 +1,9 @@
-### **Project Name: ChatVerse**
+### **Project Name: StreamChat**
 
 ---
 
 ### **Overview:**
-**ChatVerse** is a real-time chat application built using the MERN stack. It provides seamless real-time messaging, user authentication, profile updates, and a responsive design. Features include online/offline status, cloud-based media storage, and chat persistence, making it a robust platform for communication.
+**StreamChat** is a real-time chat application built using the MERN stack. It provides seamless real-time messaging, user authentication, profile updates, and a responsive design. Features include online/offline status, cloud-based media storage, and chat persistence, making it a robust platform for communication.
 
 ---
 
