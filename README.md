@@ -75,6 +75,45 @@ To develop a scalable, user-friendly, and interactive real-time chat application
 
 ---
 
+Here’s the **Workflow Overview** for **StreamChat**, similar to the structure provided for **UberClone**:
+
+---
+
+## **Workflow Overview**
+This section illustrates the complete workflow for users and admins in the **StreamChat** application, covering all major functionalities such as real-time messaging, user authentication, profile updates, and chat persistence.
+
+---
+
+### **Flowchart**
+This section provides a visual representation of the overall flow of the **StreamChat** application, including user registration, login, real-time messaging, profile updates, and managing chat persistence.
+![Uploading diagram-export-12-12-2024-10_22_23-AM.png…]()
+
+
+---
+
+### **System Architecture**
+This section demonstrates the high-level architecture of the **StreamChat** app, showcasing the interaction between the frontend, backend, database, and external services like Cloudinary for media storage and Socket.IO for real-time messaging.
+![diagram-export-12-12-2024-11_47_57-AM](https://github.com/user-attachments/assets/f83ee835-69c9-4c57-b28d-8992d714a7f6)
+
+
+---
+
+### **Sequence Diagram**
+This section presents the sequence of interactions between the different components of the **StreamChat** application, including users, the backend system, real-time chat handling, and cloud-based media storage.
+![diagram-export-12-12-2024-10_26_46-AM](https://github.com/user-attachments/assets/f46125ee-8699-4f59-bafa-c4e2a384e6d4)
+
+
+---
+
+### **Database Design**
+This section presents the database schema, highlighting the following:
+- The structure of **Users**, **Messages**, and **Chats** collections.
+- Relationships between collections (e.g., **userID** in Messages links to the Users collection, **chatID** links to the Chats collection).
+- ![diagram-export-12-12-2024-10_26_11-AM](https://github.com/user-attachments/assets/a37c5676-1cea-46ac-9728-7aa5e506c6d7)
+
+
+---
+
 # Project Structure for Feature Implementation
 This project is structured to ensure a systematic and incremental development process. Each week builds upon the previous deliverables, enabling a smooth transition from basic functionalities to advanced features.
 
