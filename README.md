@@ -75,10 +75,6 @@ To develop a scalable, user-friendly, and interactive real-time chat application
 
 ---
 
-Here’s the **Workflow Overview** for **StreamChat**, similar to the structure provided for **UberClone**:
-
----
-
 ## **Workflow Overview**
 This section illustrates the complete workflow for users and admins in the **StreamChat** application, covering all major functionalities such as real-time messaging, user authentication, profile updates, and chat persistence.
 
@@ -86,7 +82,7 @@ This section illustrates the complete workflow for users and admins in the **Str
 
 ### **Flowchart**
 This section provides a visual representation of the overall flow of the **StreamChat** application, including user registration, login, real-time messaging, profile updates, and managing chat persistence.
-![Uploading diagram-export-12-12-2024-10_22_23-AM.png…]()
+![diagram-export-12-12-2024-10_22_23-AM](https://github.com/user-attachments/assets/835194ab-c1bd-4788-a59b-395ece914e5e)
 
 
 ---
