@@ -105,7 +105,7 @@ This section presents the sequence of interactions between the different compone
 This section presents the database schema, highlighting the following:
 - The structure of **Users**, **Messages**, and **Chats** collections.
 - Relationships between collections (e.g., **userID** in Messages links to the Users collection, **chatID** links to the Chats collection).
-- ![diagram-export-12-12-2024-10_26_11-AM](https://github.com/user-attachments/assets/a37c5676-1cea-46ac-9728-7aa5e506c6d7)
+![diagram-export-12-12-2024-10_26_11-AM](https://github.com/user-attachments/assets/a37c5676-1cea-46ac-9728-7aa5e506c6d7)
 
 
 ---
